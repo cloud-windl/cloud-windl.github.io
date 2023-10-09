@@ -4,6 +4,9 @@ author: Mengqian Liu
 avatar: /logo.png
 email: alphaGo_0@outlook.com
 
+name: Cloud
+url: https://cloud-windl.github.io/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
