@@ -5,5 +5,5 @@
   url: https://user.qzone.qq.com/1713956440/main
   icon: fab fa-qq
 - title: Bilibili
-  utl: https://space.bilibili.com/1268845953?spm_id_from=333.1007.0.0
-  icon: fab fa-bilibili 
+  url: https://space.bilibili.com/1268845953?spm_id_from=333.1007.0.0
+  icon: fab fa-youtube-play
