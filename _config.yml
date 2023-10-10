@@ -3,6 +3,8 @@ description: Just Blog.
 author: Mengqian Liu
 avatar: /logo.png
 email: alphaGo_0@outlook.com
+url: https://cloud-windl.github.io/
+name: Cloud
 
 plugins:
   - jekyll-seo-tag
