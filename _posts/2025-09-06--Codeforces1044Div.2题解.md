@@ -440,3 +440,6 @@ signed main()
 }
 ```
 
+## F. Flint and Steel
+
+很可惜，我们队都不会，哈哈哈哈哈。
